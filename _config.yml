@@ -1,12 +1,12 @@
 # Basic
-title: Solarzhou's Blog
-subtitle: 胡萬三
-description: 续建码头，精彩继续...
+title: bolu's Blog
+subtitle: 我是清都山水郎
+description: 平生不会相思，才会相思，便害相思...
 # 头像里面的标题
-avatarTitle: Solarzhou
+avatarTitle: bolu
 # 头像里面的描述
-avatarDesc: 2018 · 期待
-url: "http://tzhou2018.github.io"
+avatarDesc: 2019 · 改变
+url: "http://bolu01.github.io"
 
 # Comment
 comment:
@@ -24,14 +24,13 @@ comment:
 
 # Social
 social:
-    weibo: 5350907716
-    github: tzhou2018
+    github: bolu01.github.io
     # twitter: 
-    gplus: solarzhou28@gmail.com    #Google+ 的id号
-    mail: t-zhou@foxmail.com
+    gplus: bolu981004@gmail.com    #Google+ 的id号
+    mail: bolu9881004@gmail.com
     #flickr: tzhou
     #paypal: zhou	
-    music: 120984001    # Netease Cloud Music网易云音乐的ID
+    music: 404    # Netease Cloud Music网易云音乐的ID
     
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
